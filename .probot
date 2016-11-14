@@ -1,0 +1,1 @@
+on issues.opened then comment(":robot_face:BEEP BOOP BEEP:robot_face:");
